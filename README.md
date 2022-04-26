@@ -2,7 +2,7 @@
 
 ![solidity](Resources/CommunityConnect_image.png)
 
-A decentralized application to facilitate an ecosystem of donors, non-profits, and end users in the distribution of aid. Community Connect allows Donors and Philanthropists to Donate money with the Trust that All the Money goes to Charitable works. We have Automated the process of receiving donations, requests in the form of cash assistance, reguests for Goods, Rides and then fullfillment of the Requests. Donors and users of the dapp are able to verify all activity on the blockchain.
+A decentralized application to facilitate an ecosystem of donors, non-profits, and end users in the distribution of aid. Community Connect allows Donors and Philanthropists to Donate money with the Trust that All the Money goes to Charitable works. We have Automated the process of receiving donations, requests in the form of cash assistance, requests for Goods, Rides and then fullfillment of the Requests. Donors and users of the dapp are able to verify all activity on the blockchain.
 This dApp was built to solve the transparency and efficiency issues. We do this by introducing smart contracts to automate processes and print All transactions to the blockchain. We think that the non-profit sector has a lot to gain from a dApp like Community Connect.
 
 ## Technologies
